@@ -1,9 +1,12 @@
 # 📈 Time Series Seasonality
 
-This project focuses on analyzing and extracting **seasonality patterns** from monthly sales data using time series decomposition techniques. It includes data trimming, exploratory visualizations, and saving the seasonal components for business insights and forecasting use.
+This project focuses on analyzing and extracting seasonality patterns from monthly sales data using time series decomposition techniques. It includes data trimming, exploratory visualizations, and saving the seasonal components for business insights and forecasting use.
 
 ---
+## 💡 Background  
+While building MMM models at work, seasonality for sales was always calculated in the backend with just a single click. I was curious to understand how it works behind the scenes — that curiosity led me to research time series decomposition and the statistical methods involved. Eventually, I put them together into this **simple and reusable Seasonality Calculator**  — a project I’m proud to share.
 
+---
 ## 🔁 Project Steps
 
 ### 1. Input Data
